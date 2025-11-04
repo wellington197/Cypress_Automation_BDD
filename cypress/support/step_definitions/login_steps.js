@@ -1,0 +1,1 @@
+import {} from '@badeball/cypress-cucumber-preprocessor'
